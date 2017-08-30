@@ -1,0 +1,68 @@
+
+menuPack.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+bg
+  rotate: false
+  xy: 1, 281
+  size: 431, 701
+  orig: 431, 701
+  offset: 0, 0
+  index: -1
+speedboard
+  rotate: false
+  xy: 434, 281
+  size: 431, 701
+  orig: 431, 701
+  offset: 0, 0
+  index: -1
+es_down
+  rotate: false
+  xy: 1, 95
+  size: 184, 184
+  orig: 184, 184
+  offset: 0, 0
+  index: -1
+es_up
+  rotate: false
+  xy: 187, 95
+  size: 184, 184
+  orig: 184, 184
+  offset: 0, 0
+  index: -1
+arrow
+  rotate: false
+  xy: 867, 787
+  size: 79, 195
+  orig: 79, 195
+  offset: 0, 0
+  index: -1
+score_down
+  rotate: false
+  xy: 1, 1
+  size: 92, 92
+  orig: 92, 92
+  offset: 0, 0
+  index: -1
+score_up
+  rotate: false
+  xy: 373, 187
+  size: 92, 92
+  orig: 92, 92
+  offset: 0, 0
+  index: -1
+sound_off
+  rotate: false
+  xy: 95, 1
+  size: 92, 92
+  orig: 92, 92
+  offset: 0, 0
+  index: -1
+sound_on
+  rotate: false
+  xy: 467, 187
+  size: 92, 92
+  orig: 92, 92
+  offset: 0, 0
+  index: -1

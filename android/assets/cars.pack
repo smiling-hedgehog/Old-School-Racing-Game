@@ -1,0 +1,68 @@
+
+cars.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+road
+  rotate: false
+  xy: 1, 1
+  size: 308, 510
+  orig: 308, 510
+  offset: 0, 0
+  index: -1
+track1
+  rotate: false
+  xy: 311, 295
+  size: 56, 216
+  orig: 56, 216
+  offset: 0, 0
+  index: -1
+track7
+  rotate: false
+  xy: 369, 338
+  size: 59, 173
+  orig: 59, 173
+  offset: 0, 0
+  index: -1
+track4
+  rotate: false
+  xy: 430, 369
+  size: 57, 142
+  orig: 57, 142
+  offset: 0, 0
+  index: -1
+track2
+  rotate: false
+  xy: 311, 147
+  size: 52, 146
+  orig: 52, 146
+  offset: 0, 0
+  index: -1
+track5
+  rotate: false
+  xy: 311, 14
+  size: 53, 131
+  orig: 53, 131
+  offset: 0, 0
+  index: -1
+track3
+  rotate: false
+  xy: 365, 178
+  size: 55, 115
+  orig: 55, 115
+  offset: 0, 0
+  index: -1
+track6
+  rotate: false
+  xy: 366, 61
+  size: 62, 115
+  orig: 62, 115
+  offset: 0, 0
+  index: -1
+car
+  rotate: false
+  xy: 366, 2
+  size: 34, 57
+  orig: 34, 57
+  offset: 0, 0
+  index: -1
